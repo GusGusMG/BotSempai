@@ -1,17 +1,17 @@
 <div align="center">
-<img width="100%" src="./src/luna_bot_header.svg" alt="Luna Bot V6"/>
+<img width="100%" src="./src/luna_bot_header.svg" alt="Bot Sempai"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🌙+Bot+Avanzado+de+WhatsApp;✨+Altamente+Personalizable;🚀+Herramientas+%2B+Entretenimiento;💎+Moderación+Inteligente" alt="Typing SVG" />
   
 <br><br>
   
-<a href="https://github.com/Luna-botv6/Luna-Botv6-Project">
+<a href="https://github.com/GusGusMG/BotSempai">
   <img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/IMG-20250519-WA0115.jpg" alt="Luna Bot Logo" width="400" style="border-radius: 25px;"/>
 </a>
 
 <br><br>
 
 <p>
-  <a href="https://github.com/Luna-botv6/Luna-Botv6-Project">
+  <a href="https://github.com/GusGusMG/BotSempai">
     <img src="https://img.shields.io/badge/🌙%20Version-6.0%20LATEST-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=5B21B6" alt="Version"/>
   </a>
   <a href="https://nodejs.org">
@@ -87,9 +87,9 @@ const LunaBot = {
 <br>
 
 <p>
-  <img src="https://img.shields.io/github/stars/Luna-botv6/Luna-Botv6-Project?style=social" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/Luna-botv6/Luna-Botv6-Project?style=social" alt="GitHub forks"/>
-  <img src="https://img.shields.io/github/watchers/Luna-botv6/Luna-Botv6-Project?style=social" alt="GitHub watchers"/>
+  <img src="https://img.shields.io/github/stars/GusGusMG/BotSempai?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/GusGusMG/BotSempai?style=social" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/watchers/GusGusMG/BotSempai?style=social" alt="GitHub watchers"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Luna-botv6&label=Visitas&color=blueviolet&style=for-the-badge" alt="Profile views"/>
@@ -542,7 +542,7 @@ flowchart TD
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Luna-botv6/Luna-Botv6-Project.git
+git clone https://github.com/GusGusMG/BotSempai.git
 cd Luna-Botv6-Project
 
 # Instalar dependencias del sistema
@@ -561,7 +561,7 @@ nano config.js
 
 ```powershell
 # Clonar el repositorio
-git clone https://github.com/Luna-botv6/Luna-Botv6-Project.git
+git clone https://github.com/GusGusMG/BotSempai.git
 cd Luna-Botv6-Project
 
 # Instalar dependencias (requiere chocolatey)
@@ -585,7 +585,7 @@ pkg update && pkg upgrade -y
 # 3. Instala Node.js, Git, Python y herramientas necesarias:
 pkg install nodejs git python make clang pkg-config -y
 # 4. Clona el repositorio oficial del bot:
-git clone https://github.com/Luna-botv6/Luna-Botv6-Project.git
+git clone https://github.com/GusGusMG/BotSempai.git
 # 5. Accede a la carpeta del proyecto:
 cd Luna-Botv6-Project
 # 6. Instala las dependencias del proyecto:
@@ -621,7 +621,7 @@ npm start
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Luna-botv6/Luna-Botv6-Project.git
+git clone https://github.com/GusGusMG/BotSempai.git
 cd Luna-Botv6-Project
 
 # Instalar dependencias (requiere Homebrew)
@@ -819,8 +819,8 @@ Luna-Botv6-Project/
 
 ### 🐛 **Reportar Bugs**
 
-- 📝 [Crear Issue](https://github.com/Luna-botv6/Luna-Botv6-Project/issues/new?template=bug_report.md)
-- 💡 [Solicitar Feature](https://github.com/Luna-botv6/Luna-Botv6-Project/issues/new?template=feature_request.md)
+- 📝 [Crear Issue](https://github.com/GusGusMG/BotSempai/issues/new?template=bug_report.md)
+- 💡 [Solicitar Feature](https://github.com/GusGusMG/BotSempai/issues/new?template=feature_request.md)
 
 ---
 
@@ -899,7 +899,7 @@ Tu apoyo ayuda a mantener el proyecto vivo, actualizado y lleno de nuevas funcio
   
   **🌙 Hecho con ❤️ por Germán Miño para la comunidad de WhatsApp**
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Luna--Bot-black?style=flat-square&logo=github)](https://github.com/Luna-botv6/Luna-Botv6-Project)
+  [![GitHub](https://img.shields.io/badge/GitHub-Luna--Bot-black?style=flat-square&logo=github)](https://github.com/GusGusMG/BotSempai)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbANyNuLo4hedEWlvJ3Y)
   
 </div>
